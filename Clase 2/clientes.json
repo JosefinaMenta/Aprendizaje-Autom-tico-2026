@@ -1,0 +1,107 @@
+[
+  {
+    "id_cliente": 101,
+    "nombre": "Valentina Rossi",
+    "ciudad": "Buenos Aires",
+    "provincia": "CABA",
+    "email": "valentina.rossi@gmail.com"
+  },
+  {
+    "id_cliente": 102,
+    "nombre": "Mateo Benítez",
+    "ciudad": "Córdoba",
+    "provincia": "Córdoba",
+    "email": "mateo.benitez@hotmail.com"
+  },
+  {
+    "id_cliente": 103,
+    "nombre": "Sofía Gómez",
+    "ciudad": "Rosario",
+    "provincia": "Santa Fe",
+    "email": "sofia.gomez@gmail.com"
+  },
+  {
+    "id_cliente": 104,
+    "nombre": "Lucas Fernández",
+    "ciudad": "Mendoza",
+    "provincia": "Mendoza",
+    "email": "lucas.f@yahoo.com.ar"
+  },
+  {
+    "id_cliente": 105,
+    "nombre": "Camila López",
+    "ciudad": "La Plata",
+    "provincia": "Buenos Aires",
+    "email": "camila.lopez@gmail.com"
+  },
+  {
+    "id_cliente": 106,
+    "nombre": "Joaquín Martínez",
+    "ciudad": "San Miguel de Tucumán",
+    "provincia": "Tucumán",
+    "email": "joaquin.m@outlook.com"
+  },
+  {
+    "id_cliente": 107,
+    "nombre": "Martina Pérez",
+    "ciudad": "Mar del Plata",
+    "provincia": "Buenos Aires",
+    "email": "martina.perez@gmail.com"
+  },
+  {
+    "id_cliente": 108,
+    "nombre": "Santiago Díaz",
+    "ciudad": "Salta",
+    "provincia": "Salta",
+    "email": "santi.diaz@gmail.com"
+  },
+  {
+    "id_cliente": 109,
+    "nombre": "Lucía Alvarez",
+    "ciudad": "Neuquén",
+    "provincia": "Neuquén",
+    "email": "lucia.alvarez@hotmail.com"
+  },
+  {
+    "id_cliente": 110,
+    "nombre": "Bautista Romero",
+    "ciudad": "Santa Fe",
+    "provincia": "Santa Fe",
+    "email": "bauti.romero@gmail.com"
+  },
+  {
+    "id_cliente": 111,
+    "nombre": "Delfina Sosa",
+    "ciudad": "San Juan",
+    "provincia": "San Juan",
+    "email": "delfi.sosa@gmail.com"
+  },
+  {
+    "id_cliente": 112,
+    "nombre": "Tomas Ruiz",
+    "ciudad": "Resistencia",
+    "provincia": "Chaco",
+    "email": "tomas.ruiz@outlook.com"
+  },
+  {
+    "id_cliente": 113,
+    "nombre": "Elena Castro",
+    "ciudad": "San Salvador de Jujuy",
+    "provincia": "Jujuy",
+    "email": "elena.castro@gmail.com"
+  },
+  {
+    "id_cliente": 114,
+    "nombre": "Felipe Giménez",
+    "ciudad": "Posadas",
+    "provincia": "Misiones",
+    "email": "felipe.gimenez@gmail.com"
+  },
+  {
+    "id_cliente": 115,
+    "nombre": "Victoria Torres",
+    "ciudad": "Bahía Blanca",
+    "provincia": "Buenos Aires",
+    "email": "vicky.torres@gmail.com"
+  }
+]
